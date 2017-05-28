@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student id="16020028" level="100" department="Computer Science" semester="1">
+
+<courses>
+
+<course name="CHM 111" unit="3" grade="A"/>
+<course name="CSC 111" unit="2" grade="B"/>
+<course name="CSC 112" unit="1" grade="C"/>
+<course name="BIO 111" unit="3" grade="E"/>
+<course name="MAT 111" unit="3" grade="D"/>
+<course name="MAT 112" unit="3" grade="F"/>
+<course name="PHY 111" unit="3" grade="D"/>
+<course name="PHY 112" unit="2" grade="B"/>
+<course name="PHY 113" unit="1" grade="A"/>
+
+
+</courses>
+
+</student>

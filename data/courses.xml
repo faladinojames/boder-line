@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courses department="Computer Science">
+<level id="100">
+ <semester id="1">
+<course name="CHM 111" unit="3"/>
+<course name="CSC 111" unit="2"/>
+<course name="CSC 112" unit="1"/>
+<course name="BIO 111" unit="3"/>
+<course name="MAT 111" unit="3"/>
+<course name="MAT 112" unit="3"/>
+<course name="PHY 111" unit="3"/>
+<course name="PHY 112" unit="2"/>
+<course name="GNS 111" unit="2"/>
+<course name="GNS 112" unit="2"/>
+<course name="GNS 113" unit="2"/>
+ </semester>
+
+ <semester id="2">
+     <course name="MAT 121" unit="3"/>
+     <course name="MAT 122" unit="3"/>
+     <course name="PHY 121" unit="3"/>
+     <course name="PHY 122" unit="1"/>
+     <course name="CHM 124" unit="3"/>
+     <course name="CSC 121" unit="2"/>
+     <course name="CSC 122" unit="1"/>
+     <course name="GNS 121" unit="2"/>
+     <course name="GNS 123" unit="2"/>
+     <course name="GNS 124" unit="2"/>
+     <course name="GNS 125" unit="0"/>
+ </semester>
+
+
+</level>
+
+<level id="200">
+ <semester id="1">
+
+<course name="CSC 211" unit="3"/>
+<course name="CSC 212" unit="3"/>
+<course name="CSC 213" unit="3"/>
+<course name="CSC 214" unit="3"/>
+<course name="CSC 215" unit="1"/>
+<course name="MAT 211" unit="3"/>
+<course name="MAT 212" unit="2"/>
+<course name="GNS 212" unit="2"/>
+<course name="GNS 211" unit="2"/>
+ </semester>
+
+ <semester id="2">
+     <course name="CSC 221" unit="3"/>
+     <course name="CSC 222" unit="3"/>
+     <course name="CSC 223" unit="3"/>
+     <course name="CSC 224" unit="1"/>
+     <course name="MAT 221" unit="3"/>
+     <course name="GNS 221" unit="2"/>
+     <course name="GNS 222" unit="2"/>
+     <course name="GNS 223" unit="0"/>
+     <course name="PHY 223" unit="1"/>
+     <course name="MAT 223" unit="3"/>
+
+ </semester>
+
+
+</level>
+
+<level id="300">
+ <semester id="1">
+ <course name="CSC 311" unit="3"/>
+ <course name="CSC 312" unit="3"/>
+ <course name="CSC 313" unit="3"/>
+ <course name="CSC 314" unit="3"/>
+ <course name="CSC 315" unit="3"/>
+ <course name="CSC 316" unit="3"/>
+ <course name="CSC 317" unit="3"/>
+ <course name="GNS 311" unit="2"/>
+ 
+
+ </semester>
+
+ <semester id="2">
+     <course name="CSC 321" unit="3"/>
+     <course name="CSC 322" unit="3"/>
+     <course name="CSC 323" unit="3"/>
+     <course name="CSC 324" unit="3"/>
+     <course name="CSC 325" unit="3"/>
+     <course name="CSC 326" unit="3"/>
+     <course name="CSC 327" unit="3"/>
+     <course name="CSC 399" unit="3"/>
+     <course name="GNS 321" unit="0"/>
+
+
+
+ </semester>
+
+
+</level>
+
+<level id="400">
+ <semester id="1">
+    <course name="CSC 411" unit="4"/>
+    <course name="CSC 412" unit="3"/>
+    <course name="CSC 413" unit="3"/>
+    <course name="CSC 414" unit="2"/>
+    <course name="CSC 415" unit="1"/>
+    <course name="CSC 417" unit="3"/>
+    <course name="CSC 431" unit="3"/>
+ </semester>
+
+ <semester id="2">
+
+     <course name="CSC 421" unit="3"/>
+     <course name="CSC 422" unit="3"/>
+     <course name="CSC 423" unit="3"/>
+     <course name="CSC 499" unit="6"/>
+     <course name="CSC 424" unit="2"/>
+
+ </semester>
+
+
+</level>
+
+</courses>
